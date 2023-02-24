@@ -1,0 +1,1 @@
+#wap to find sum of even nos and product of odd numbers in a given range

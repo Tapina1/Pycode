@@ -1,0 +1,32 @@
+#LIST all fuction wap 
+a=[]
+x=int(input("Enter length of the list:"))
+for i in range(x):
+    x1=input("Enter values:")
+    a.append(x1)
+    y1=len(a)
+print(y1,"is length of list:",a)
+print("Max value in list is :",max(a))
+print("Min value in list is:",min(a))
+f=input("Enter values you want to know frequency:")
+c=a.count(f)
+print("frequency of",f,"is",c)
+x=input("Enter the values to know index:")
+d=a.index(x)
+print("index of",x,"is",d)
+print("Original list values:",a)
+y2=input("Enter the values you want to insert:")
+y3=int(input("Enter the index of the values you want to add:"))
+a.insert(y3,y2)
+print("list after insert:",a)
+x2=input("Enter the values you want to remove:")
+a.remove(x2)
+print("list after remove",x2,"is",a)
+a.reverse()
+print("list after reverse:",a)
+a.sort()
+print("lsit after sort:",a)
+a.pop()
+print("list after pop:",a)
+
+

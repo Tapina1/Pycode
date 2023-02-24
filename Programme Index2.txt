@@ -1,0 +1,104 @@
+Name:Tapina Sahu
+ph:9040751092
+Course:Python 
+#Python practice questions
+--------------------------
+Index:
+---------------------------------------------------------------------------------
+t1.Write a programme to print "Hello World"/"Your Name"
+t2.Write a programme to add two numbers.
+t3.Wap to subtract two numbers.
+t4.Wap to multiply two numbers.
+t5.Wap to divide two numbers.
+t6.Wap to perform addition/subtraction/multiplication/division in the same programme.
+t7.Wap to calculate area of triangle
+t8.Wap to calculate area of rectangle
+t9.Wap to calculate area of circle
+t10.Wap to calculate area of square
+t11.Wap to calculate perimeter of rectangle
+t12.Wap to calculate circumference of circle
+t13.Wap to calculate perimeter of square
+t14.Wap to accept electricity unit consumption and calculate total price at rate of 5 rs unit.Give a discount of 10% on all over bill.
+t15*.Wap to accept marks of 5 subjects and find total marks and percentage assuming full marks as 100 in each subject.
+t16.Wap to swap values of two numbers.
+t17*.Wap to accept total sales amount and find the profit amount @ 5%.
+t18*.Wap to find max between two numbers
+t19*.Wap to find max between three numbers
+t20*.Wap to find the middle number in a group of three numbers.
+t21.Wap to print from 1 to n.
+t22.wap to print from n to 1 in (reverse order).
+t23.wap to find sum from 1 to n
+t24.wap to find sum of square from 1 to n
+t25.wap to find sum of cube from 1 to n
+t26.wap to print even numbers from 1 to n
+t27.wap to sum of even numbers from 1 to n
+t28.wap to find sum of first n even numbers
+t29.wap to find sum of digits of a given number 
+t30.wap to find sum of square/cube of digits of a given number
+t31.wap to check no is armstrong no or not
+t32.wap to find product of digits of a given number
+t33.wap to reverse of a given number
+t34.wap to check no is pallindrome no or not
+t35.wap to check no is prime no or not
+t36.wap to find Factorial of a given numberseries
+t37.wap to print fibonicci series
+t38.Pyramid pattern printing via Nested loop
+t39.right angle trangle pattern printing via Nested loop
+t40.right angle trangle pattern printing via Nested loop
+t41.reverse Pyramid pattern printing via Nested loop
+t42.For loop
+t43.Functions
+t44.function without argument
+t45.Function with argument
+t46.User input with argument in function
+t47.function without argument
+t48.No argument with return( Function)
+t49.With giving default value in argument( function)
+t50.Break And continue
+t51.STRING
+t52.String
+t53.len() & capitalize() function
+t54.Wap to find reverse of a string
+t55.Wap to count total vowel and consonants in string
+t56.Wap to check  string is pallindrome or not
+t57.find(),islanum(),isdigit() and isspace() 
+t58.list in python
+t59.list slicing
+t60.update and delete in list
+t61.List traversal in python
+t62.List Methods in python(len(),max()&min())
+t63.list methods in python(cmp()):
+t64.append() methods in List 
+t65.Count() methods in list
+t66.index() methods in list
+t67.insert() methods in list
+t68.remove()/delete methods in list
+t69.reverse() and sort() methods in list
+t70.pop() methods in list
+t71.LIST :all fuction wap 
+t72.(Programmme Practices):wap to find sum of nos in a list
+t73.Wap to count total no of odd and even in the list
+t74.*wap to find sum of even nos and product of odd numbers
+t75.wap to search a numbers in the list
+t76.wap to count frequency of a given number
+t77.wap to find max,min number in the list
+t78.wap to reverse a list
+t79.Tuple with its various operation
+t80.Dictionary with its various operation
+t81.
+t82.
+t83.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
